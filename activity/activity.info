@@ -1,0 +1,9 @@
+[Activity]
+name = Clock
+bundle_id = tv.alterna.Clock
+exec = sugar-activity clock.ClockActivity
+icon = activity-clock
+activity_version = 9
+host_version = 1
+show_launcher = yes
+license=Public Domain
